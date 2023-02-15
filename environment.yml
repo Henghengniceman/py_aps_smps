@@ -1,0 +1,14 @@
+name: VE_SizeDist
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
+  - sqlalchemy
+  - python=3.10
+  - scipy
+  - pip
+  - numpy
+  - pip:
+    - mariadb

@@ -1,0 +1,6 @@
+mariadb
+matplotlib
+numpy
+pandas
+scipy
+SQLAlchemy

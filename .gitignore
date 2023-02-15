@@ -1,0 +1,9 @@
+# Do not edit individual rules here !
+# Individual rules can be set in .git/info/exclude
+
+__pycache__/
+.spyproject
+
+# project specific folders
+## ignore outputs
+output/
